@@ -1,0 +1,42 @@
+LEVEL 10
+
+* Quando apertar "run":
+
+
+- Se "move forward" - andar 1 quadrado pra frente. 
+
+1. Move forward - Andar um quadrado pra frente.
+
+
+- Se "place (tipo) ahead" - colocar 1 (tipo) a frente. 
+
+
+2. Place cobblestone ahead - colocar um cobblestone a frente. 
+
+
+- Enquanto "repeat" for menor que 2:
+    # "move forward" - andar 1 quadrado pra frente.
+
+3. Repeat 0:
+    Move forward - Andar um quadrado pra frente.
+   
+4. Repeat 1:
+    Move forward - Andar um quadrado pra frente.
+
+#Parar 
+
+
+- Enquanto "repeat" for menor que 2:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "destroy block" - destruir bloco e recolher material.
+
+5. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Destroy block - Destruir bloco e recolher material.
+
+   
+6. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Destroy block - Destruir bloco e recolher material.
+
+#Parar 

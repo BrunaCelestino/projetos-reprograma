@@ -1,0 +1,249 @@
+LEVEL 6
+
+# Escolher nível:
+* Easy
+* Medium
+* Hard
+
+-> Se "Easy" (fácil):
+
+* Quando apertar "run":
+
+- Enquanto "repeat" for menor que 3:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+1. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+    
+2. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+3. Repeat 2:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+- Se "turn right" - virar para direita.
+- Se "turn left" - virar para esquerda.
+
+4. Turn Right - virar para direita. 
+
+- Enquanto "repeat" for menor que 3:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+5. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+6. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+7. Repeat 2:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+8. Turn Right - virar para direita.
+
+- Enquanto "repeat" for menor que 2:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+9. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+    
+10. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+-> Se "Medium" (médio):
+
+* Quando apertar "run":
+
+- Enquanto "repeat" for menor que 6:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+1. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+2. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+3. Repeat 2:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+4. Repeat 3:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+5. Repeat 4:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+6. Repeat 5:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+- Se "turn right" - virar para direita.
+- Se "turn left" - virar para esquerda.
+
+7. Turn Right - virar para direita.
+
+- Enquanto "repeat" for menor que 2:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+8. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+9. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+10. Turn Right - virar para direita.
+
+- Enquanto "repeat" for menor que 3:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+11. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+12. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+13. Repeat 2:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+14. Turn Left - virar para esquerda.
+
+- Se "move forward" - andar 1 quadrado pra frente. 
+- Se "place (tipo) planks" - colocar 1 tábua de madeira.
+
+15. Move forward - Andar um quadrado pra frente.
+16. Place birch planks - colocar uma tábua de madeira.
+17. Turn Right - virar para direita.
+
+- Enquanto "repeat" for menor que 2:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+18. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+19. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+
+-> Se "Hard" (difícil):
+
+* Quando apertar "run":
+
+- Enquanto "repeat" for menor que 2:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+1. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+2. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+- Se "turn right" - virar para direita.
+- Se "turn left" - virar para esquerda.
+
+3. Turn Left - virar para esquerda.
+
+- Se "move forward" - andar 1 quadrado pra frente. 
+- Se "place (tipo) planks" - colocar 1 tábua de madeira.
+
+4. Move forward - Andar um quadrado pra frente.
+5. Place birch planks - colocar uma tábua de madeira.
+6. Turn Right - virar para direita.
+
+- Enquanto "repeat" for menor que 2:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+7. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+8. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+9. Turn Right - virar para direita.
+
+- Enquanto "repeat" for menor que 3:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+10. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+11. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+12. Repeat 2:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar
+
+13. Move forward - Andar um quadrado pra frente.
+14. Turn Right - virar para direita.
+
+- Enquanto "repeat" for menor que 3:
+    # "move forward" - andar 1 quadrado pra frente;
+    # "place (tipo) planks" - colocar 1 tábua de madeira.
+
+15. Repeat 0:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+16. Repeat 1:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+17. Repeat 2:
+    Move forward - Andar um quadrado pra frente;
+    Place birch planks - colocar uma tábua de madeira.
+
+#Parar

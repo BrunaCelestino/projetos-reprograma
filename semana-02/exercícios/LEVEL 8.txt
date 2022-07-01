@@ -1,0 +1,55 @@
+LEVEL 8
+
+* Quando apertar "run":
+
+- Enquanto "repeat" for menor que 4:
+    # "move forward" - andar 1 quadrado pra frente.
+
+1. Repeat 0:
+    Move forward - Andar um quadrado pra frente.
+   
+2. Repeat 1:
+    Move forward - Andar um quadrado pra frente.
+
+3. Repeat 2:
+    Move forward - Andar um quadrado pra frente.
+
+4. Repeat 3:
+    Move forward - Andar um quadrado pra frente.
+
+#Parar 
+
+- Se "turn right" - virar para direita.
+- Se "turn left" - virar para esquerda.
+
+5. Turn Left - virar para esquerda.
+
+- Enquanto "repeat" for menor que 4:
+    # "move forward" - andar 1 quadrado pra frente.
+
+6. Repeat 0:
+    Move forward - Andar um quadrado pra frente.
+   
+7. Repeat 1:
+    Move forward - Andar um quadrado pra frente.
+
+8. Repeat 2:
+    Move forward - Andar um quadrado pra frente.
+
+9. Repeat 3:
+    Move forward - Andar um quadrado pra frente.
+
+#Parar 
+
+10. Turn Left - virar para esquerda.
+
+- Enquanto "repeat" for menor que 2:
+    # "move forward" - andar 1 quadrado pra frente.
+
+11. Repeat 0:
+    Move forward - Andar um quadrado pra frente.
+   
+12. Repeat 1:
+    Move forward - Andar um quadrado pra frente.
+
+#Parar 

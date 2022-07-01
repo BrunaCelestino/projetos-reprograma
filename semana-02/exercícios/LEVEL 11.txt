@@ -1,0 +1,45 @@
+LEVEL 11
+
+* Quando apertar "run":
+
+- Enquanto "repeat" for menor que 7:
+    # "destroy block" - destruir bloco e recolher material.
+        Se houver lava a frente: "place (tipo) ahead" - colocar 1 (tipo) a frente. 
+    # "move forward" - andar 1 quadrado pra frente.
+
+1. Repeat 0:
+    Destroy block - Destruir bloco e recolher material.
+        Se houver lava a frente: Place cobblestone ahead - colocar um cobblestone a frente. 
+    Move forward - Andar um quadrado pra frente.
+ 
+2. Repeat 1:
+    Destroy block - Destruir bloco e recolher material.
+        Se houver lava a frente: Place cobblestone ahead - colocar um cobblestone a frente. 
+    Move forward - Andar um quadrado pra frente.
+
+3. Repeat 2:
+    Destroy block - Destruir bloco e recolher material.
+        Se houver lava a frente: Place cobblestone ahead - colocar um cobblestone a frente. 
+    Move forward - Andar um quadrado pra frente.
+ 
+4. Repeat 3:
+    Destroy block - Destruir bloco e recolher material.
+        Se houver lava a frente: Place cobblestone ahead - colocar um cobblestone a frente. 
+    Move forward - Andar um quadrado pra frente.
+
+5. Repeat 4:
+    Destroy block - Destruir bloco e recolher material.
+        Se houver lava a frente: Place cobblestone ahead - colocar um cobblestone a frente. 
+    Move forward - Andar um quadrado pra frente.
+ 
+6. Repeat 5:
+    Destroy block - Destruir bloco e recolher material.
+        Se houver lava a frente: Place cobblestone ahead - colocar um cobblestone a frente. 
+    Move forward - Andar um quadrado pra frente.
+
+7. Repeat 6:
+    Destroy block - Destruir bloco e recolher material.
+        Se houver lava a frente: Place cobblestone ahead - colocar um cobblestone a frente. 
+    Move forward - Andar um quadrado pra frente.
+ 
+#Parar 

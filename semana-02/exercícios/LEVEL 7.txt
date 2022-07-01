@@ -1,0 +1,78 @@
+LEVEL 7
+
+* Quando apertar "run":
+
+- Enquanto "repeat" for menor que 6:
+    # "plant crop" - plantar 1 vez;
+    # "move forward" - andar 1 quadrado pra frente.
+
+1. Repeat 0:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+   
+2. Repeat 1:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+3. Repeat 2:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+4. Repeat 3:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+5. Repeat 4:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+6. Repeat 5:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+#Parar
+
+- Se "turn right" - virar para direita.
+- Se "turn left" - virar para esquerda.
+
+7. Turn Right - virar para direita.
+
+- Se "move forward" - andar 1 quadrado pra frente. 
+
+8. Move forward - Andar um quadrado pra frente.
+9. Move forward - Andar um quadrado pra frente.
+10. Turn Right - virar para direita.
+
+- Enquanto "repeat" for menor que 7:
+    # "plant crop" - plantar 1 vez;
+    # "move forward" - andar 1 quadrado pra frente.
+
+11. Repeat 0:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+12. Repeat 1:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+13. Repeat 2:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+14. Repeat 3:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+15. Repeat 4:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+16. Repeat 5:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+17. Repeat 6:
+    Plant crop - plantar uma vez;
+    Move forward - Andar um quadrado pra frente.
+
+#Parar

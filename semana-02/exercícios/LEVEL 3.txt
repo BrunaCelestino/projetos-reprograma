@@ -1,0 +1,19 @@
+LEVEL 3
+
+* Quando apertar "run":
+
+- Se "move forward" - andar 1 quadrado pra frente.
+
+1. Move forward - Andar um quadrado pra frente.
+2. Move forward - Andar um quadrado pra frente.
+
+- Se "shear" - tosar ovelha e recolher lã.
+
+3. Shear - tosar ovelha e recolher lã.
+
+- Se "turn right" - virar para direita.
+- Se "turn left" - virar para esquerda.
+
+4. Turn right - virar para direita.
+5. Move forward - Andar um quadrado pra frente.
+6. Shear - tosar ovelha e recolher lã.

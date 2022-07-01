@@ -1,0 +1,72 @@
+LEVEL 13
+
+* Quando apertar "run":
+
+- Se "turn right" - virar para direita.
+- Se "turn left" - virar para esquerda.
+
+1. Turn right - virar para direita.
+
+Enquanto "repeat" for menor que 6:
+    # "place rail" - colocar 1 trilho
+    # "move forward" - andar 1 quadrado pra frente.
+
+2. Repeat 0: 
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+ 
+3. Repeat 1:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+
+4. Repeat 2:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+ 
+5. Repeat 3:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+
+6. Repeat 4:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+
+7. Repeat 5:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+
+#Parar
+
+
+8. Turn right - virar para direita.
+
+
+Enquanto "repeat" for menor que 6:
+    # "place rail" - colocar 1 trilho
+    # "move forward" - andar 1 quadrado pra frente.
+
+9. Repeat 0: 
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+ 
+10. Repeat 1:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+
+11. Repeat 2:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+ 
+12. Repeat 3:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+
+13. Repeat 4:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+
+14. Repeat 5:
+    Place rail - Colocar 1 trilho;
+    Move forward - Andar um quadrado pra frente.
+
+#Parar

@@ -1,0 +1,25 @@
+LEVEL 5
+
+* Quando apertar "run":
+
+- Enquanto "repeat" for menor que 4:
+    # "place (tipo) planks" - colocar 1 tábua de madeira;
+    # "move forward" - andar 1 quadrado pra frente.
+
+1. Repeat 0:
+    Place birch planks - colocar uma tábua de madeira;
+    Move forward - Andar um quadrado pra frente.
+
+2. Repeat 1:
+    Place birch planks - colocar uma tábua de madeira;
+    Move forward - Andar um quadrado pra frente.
+
+3. Repeat 2:
+    Place birch planks - colocar uma tábua de madeira;
+    Move forward - Andar um quadrado pra frente.
+
+4. Repeat 3:
+    Place birch planks - colocar uma tábua de madeira;
+    Move forward - Andar um quadrado pra frente.
+
+#Parar 

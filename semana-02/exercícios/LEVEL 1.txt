@@ -1,0 +1,10 @@
+LEVEL 1
+# Escolher personagem.
+
+* Quando apertar "run":
+
+- Se "move forward" - andar 1 quadrado pra frente. 
+
+1. Move forward - Andar um quadrado pra frente.
+2. Move forward - Andar um quadrado pra frente. 
+# Alcançar a ovelha. 

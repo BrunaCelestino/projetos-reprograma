@@ -1,0 +1,12 @@
+LEVEL 2
+
+* Quando apertar "run":
+
+- Se "move forward" - andar 1 quadrado pra frente. 
+
+1. Move forward - Andar um quadrado pra frente.
+2. Move forward - Andar um quadrado pra frente. 
+
+- Se "destroy block" - destruir bloco a frente e recolher material.
+
+3. Destroy block - Destruir bloco da árvore e recolher material.
