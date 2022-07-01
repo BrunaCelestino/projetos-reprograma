@@ -10,7 +10,7 @@ Turma Online Todas em Tech - Back-end | Semana 12: **Introdução ao Banco de Da
 
 <br>
 <div align = "center">
-<img src='./assets/herstory_logo.jpeg' width = 500 alt = 'logo herstory'>
+<img src='./herstory/assets/herstory_logo.jpeg' width = 500 alt = 'logo herstory'>
 </div>
 <br>
 

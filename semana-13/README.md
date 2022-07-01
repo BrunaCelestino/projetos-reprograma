@@ -11,7 +11,7 @@
 
 <br>
 <div align = "center">
-<img src='./assets/reprogramafood.jpg' width = 500 alt = 'logo reprogramafood'>
+<img src='./reprograma-food/assets/reprogramafood.jpg' width = 500 alt = 'logo reprogramafood'>
 </div>
 <br>
 

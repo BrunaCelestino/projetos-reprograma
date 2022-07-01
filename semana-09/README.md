@@ -8,7 +8,7 @@
 
 <br>
 <div align = "center">
-<img src='./assets/reprogramaflixx.jpeg' width = 500 alt = 'logo reprogramaflix'>
+<img src='./reprogramaflix/assets/reprogramaflixx.jpeg' width = 500 alt = 'logo reprogramaflix'>
 </div>
 <br>
 

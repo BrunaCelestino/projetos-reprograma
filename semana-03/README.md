@@ -4,6 +4,7 @@
 Esta é a 3ª semana da turma online Todas em Tech on15 - Back-end, nesta aula do dia 09/04/2022 tivemos os seguintes conteúdos:
 
 </div>
+
 - Revisão da estruturas condicionais;
 - Estruturas de repetição;
 - Escopo;

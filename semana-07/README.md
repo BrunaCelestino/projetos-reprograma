@@ -17,7 +17,12 @@ Esta é a 7ª semana da turma online: Todas em Tech on15 - Back-end, nesta aula 
 <div align = "justify">
 
 Na semana 8, aprendemos sobre o Ciclo de vida de uma aplicação JavaScript, setTimeout, event loop, callbacks, promises, async/await e try/catch. Como exercício da semana, tivemos as atividades a seguir.
-É  possível encontrar a resolução do exercícios clicando: [exercício-1-versão-1](https://github.com/BrunaCelestino/ON15-TET-S7-ASSINCJS/blob/BrunaCelestino/exercicio1-async.js), [exercício-1-versão-2](https://github.com/BrunaCelestino/ON15-TET-S7-ASSINCJS/blob/BrunaCelestino/exercicio1-callback.js), [exercício-1-versão-3](https://github.com/BrunaCelestino/ON15-TET-S7-ASSINCJS/blob/BrunaCelestino/exercicio1-promise.js), [exercício-2](https://github.com/BrunaCelestino/ON15-TET-S7-ASSINCJS/blob/BrunaCelestino/exercicio2-async.js)
+É  possível encontrar a resolução do exercícios clicando:  
+ 
+- [exercício-1-versão-1](https://github.com/BrunaCelestino/ON15-TET-S7-ASSINCJS/blob/BrunaCelestino/exercicio1-async.js);
+- [exercício-1-versão-2](https://github.com/BrunaCelestino/ON15-TET-S7-ASSINCJS/blob/BrunaCelestino/exercicio1-callback.js); 
+- [exercício-1-versão-3](https://github.com/BrunaCelestino/ON15-TET-S7-ASSINCJS/blob/BrunaCelestino/exercicio1-promise.js);
+- [exercício-2](https://github.com/BrunaCelestino/ON15-TET-S7-ASSINCJS/blob/BrunaCelestino/exercicio2-async.js)
 <br>
 
 </div>

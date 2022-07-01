@@ -10,7 +10,7 @@ Turma Online Todas em Tech - Back-end | Semana 11: **Projeto Guiado**.
 
 <br>
 <div align = "center">
-<img src='./assets/englishOn.png' width = 500 alt = 'logo english on'>
+<img src='./EnglishOn/assets/englishOn.png' width = 500 alt = 'logo english on'>
 </div>
 <br>
 

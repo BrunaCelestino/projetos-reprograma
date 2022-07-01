@@ -8,7 +8,7 @@
 
 <br>
 <div align = "center">
-<img src='./assets/reprograma-bookclube.jpeg' width = 500 alt = 'logo reprograma book clube'>
+<img src='./reprograma-BookClub/assets/reprograma-bookclube.jpeg' width = 500 alt = 'logo reprograma book clube'>
 </div>
 <br>
 
