@@ -7,11 +7,11 @@ Este repositório tem como objetivo reunir todos os projetos realizados durante 
 
 <br>
 
-- [semana-01](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-01) - Na primeira semana, aprendemos sobre versionamento de código, e sobre como utilizar o git bash e github;
+- [semana-01](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-01) - Na primeira semana, aprendemos sobre versionamento de código e sobre como utilizar o git bash e github;
 
 <br>
 
-- [semana-02](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-02) - Na segunda semana, aprendemos sobre Lógica de programação, o que é javascript, tipo de dados, variáveis, operadores e estruturas condicionais. Para exercitar a lógica, escrevemos algoritmos sobre o passo a passo para resolver fazer de um jogo;
+- [semana-02](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-02) - Na segunda semana, aprendemos sobre Lógica de programação, o que é javascript, tipo de dados, variáveis, operadores e estruturas condicionais. Para exercitar a lógica, escrevemos algorítimos sobre o passo a passo para resolver as fases de um jogo;
 
 <br>
 
@@ -19,11 +19,11 @@ Este repositório tem como objetivo reunir todos os projetos realizados durante 
 
 <br>
 
-- [semana-04](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-04) - Na quarta semana, revimos estruturas objetos, aprendemos sobre arrays, métodos de arrays e spread e rest. Como projeto da semana, tivemos dois exercícios: refazer o exercício da semana 3, utilizando, pelo menos, três métodos aprendidos na semana 4 e criar uma aplicação simples que fizesse buscas em um banco de dados fictício, de acordo com critérios definidos;
+- [semana-04](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-04) - Na quarta semana, revimos objetos, aprendemos sobre arrays, métodos de arrays e spread e rest. Como projeto da semana, tivemos dois exercícios: refazer o exercício da semana 3, utilizando, pelo menos, três métodos aprendidos na semana 4 e criar uma aplicação simples que fizesse buscas em um banco de dados fictício, de acordo com critérios definidos;
 
 <br>
 
-- [semana-05](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-05) - Na quinta semana, aprendemos sobre classes e tivemos o primeiro projeto guiado, onde, utilizando classes, deveríamos criar um método para converter um filamento de DNA, em RNA;
+- [semana-05](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-05) - Na quinta semana, aprendemos sobre classes e tivemos o primeiro projeto guiado, onde, utilizando classes, deveríamos criar um método para converter um filamento de DNA em RNA;
 
 
 <br>
@@ -33,7 +33,7 @@ Este repositório tem como objetivo reunir todos os projetos realizados durante 
 
 <br>
 
-- [semana-07](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-07) - Na sétima semana, aprendemos sobre o Ciclo de vida de uma aplicação JavaScript, setTimeout, event loop, callbacks, promises, async/await e try/catch. . Como projeto da semana, deveríamos resolver os exercícios usando promises, callbacks ou async/await;
+- [semana-07](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-07) - Na sétima semana, aprendemos sobre o Ciclo de vida de uma aplicação JavaScript, setTimeout, event loop, callbacks, promises, async/await e try/catch. Como projeto da semana, deveríamos resolver os exercícios usando promises, callbacks ou async/await;
 
 
 <br>
@@ -57,7 +57,7 @@ Este repositório tem como objetivo reunir todos os projetos realizados durante 
 
 <br>
 
-- [semana-12](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-12) - Na décima segunda semana, tivemos a introdução ao Banco de Dados e Integração. Utilizando o banco de dados MongoDB e, em grupo, desenvolvemos uma API para professores de idiomas, na modalidade de ensino remoto. A ideia do projeto era simular um banco de dados contendo cadastros de todos os alunos e anotações mensais sobre o progresso dos mesmos;
+- [semana-12](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-12) - Na décima segunda semana, tivemos a introdução ao Banco de Dados e Integração. Utilizando o banco de dados MongoDB e, em grupo, desenvolvemos a web API her(story) - Powerful brazilian female artists you should know, uma celebração cultural onde é possível acessar informações de artistas brasileiras de diferentes seguimentos e épocas que marcaram a história;
 
 <br>
 
