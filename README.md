@@ -11,7 +11,7 @@ Este repositório tem como objetivo reunir todos os projetos realizados durante 
 
 <br>
 
-- [semana-01](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-02) - Na segunda semana, aprendemos sobre Lógica de programação, o que é javascript, tipo de dados, variáveis, operadores e estruturas condicionais. Para exercitar a lógica, escrevemos algoritmos sobre o passo a passo para resolver fazer de um jogo;
+- [semana-02](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-02) - Na segunda semana, aprendemos sobre Lógica de programação, o que é javascript, tipo de dados, variáveis, operadores e estruturas condicionais. Para exercitar a lógica, escrevemos algoritmos sobre o passo a passo para resolver fazer de um jogo;
 
 <br>
 
