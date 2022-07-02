@@ -1,4 +1,4 @@
-# <div align = "center" > # ON15-TET-S6-Nodejs </div>
+# <div align = "center" > ON15-TET-S6-Nodejs </div>
 
 <div align = "justify">
 Turma Online Todas em Tech - Back-end | Semana 6: Introdução à API: HTTP e NodeJS

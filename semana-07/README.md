@@ -1,4 +1,4 @@
-# <div align = "center" > # On15-TodasEmTech-s7-JS-Assíncrono </div>
+# <div align = "center" > On15-TodasEmTech-s7-JS-Assíncrono </div>
 
 <div align = "justify">
 Esta é a 7ª semana da turma online: Todas em Tech on15 - Back-end, nesta aula do dia 25/09/2021 tivemos os seguintes conteúdos:
