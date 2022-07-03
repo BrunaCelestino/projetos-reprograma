@@ -69,6 +69,10 @@ Este repositório tem como objetivo reunir todos os projetos realizados durante 
 
 <br>
 
+- [semana-14](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-15) - Na décima quinta semana, aprendemos sobre automação de testes, utilizando as dependências Jest e SuperTest. Como projeto da semana, deveríamos implementar automação de testes em uma API construída nas aulas anteriores. Escolhi a API da semana 14;
+
+<br>
+
 - [semana-reforco](https://github.com/BrunaCelestino/projetos-reprograma/tree/master/semana-reforco) - Na semana de reforço, revimos conceitos como funções, objetos, métodos de arrays e async/await. Como tarefa opcional, foram atribuidos dois exercícios a fim de exercitar os assuntos revistos durante a aula.
 
 </div>
